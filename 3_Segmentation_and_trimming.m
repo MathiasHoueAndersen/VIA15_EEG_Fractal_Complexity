@@ -1,3 +1,10 @@
+========================================================================
+%  Please cite:
+%  Authors (202X).
+%  TITLE. bioRxiv, 202X-X.
+%  https://doi.org/X
+% =======================================================================
+
 % Segment resting-state EEG .set files using timepoints from Excel file
 
 %% Paths
