@@ -1,3 +1,10 @@
+========================================================================
+%  Please cite:
+%  Authors (202X).
+%  TITLE. bioRxiv, 202X-X.
+%  https://doi.org/X
+% =======================================================================
+
 %% Set current directory
 
 cd('/mnt/projects/VIA_MHA/VIA15_Rest/Final')
