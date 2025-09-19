@@ -1,3 +1,10 @@
+========================================================================
+%  Please cite:
+%  Authors (202X).
+%  TITLE. bioRxiv, 202X-X.
+%  https://doi.org/X
+% =======================================================================
+
 %% VIA15 Rest preprocessing Pipeline
 % Phase 1: Raw -> step12_reref (Script 1 steps 1–12)
 % Phase 2: Re-ICA+ICLabel (p>=0.60), ASR strict masks, PSD ±3 SD remove -> *_preprocessed.set
